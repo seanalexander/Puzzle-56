@@ -2,7 +2,7 @@
 
 ## The Case of the Curious Counter
 
-YouTube Video: https://youtu.be/
+YouTube Video: https://youtu.be/jKiQUx5xH4Y
 
 Blazor Puzzle Home Page: https://blazorpuzzle.com
 
