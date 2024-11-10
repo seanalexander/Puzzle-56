@@ -7,7 +7,8 @@ var builder = WebApplication.CreateBuilder(args);
 builder.Services.AddRazorComponents()
 		.AddInteractiveServerComponents();
 
-builder.Services.AddScoped<ICounter, NullCounter>();
+//builder.Services.AddScoped<ICounter, NullCounter>();
+builder.Services.AddScoped<ICounter, TheCounter>();
 
 var app = builder.Build();
 
